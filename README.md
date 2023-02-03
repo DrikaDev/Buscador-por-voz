@@ -2,7 +2,9 @@
 
 Sistema de reconhecimento e busca por voz parecido com o "Ok Google".\
 API de reconhecimento de voz feito em HTML, CSS e Javascript.\
-Fiz com auxílio de um tutorial para fins educativos e treino/aprendizado de JavaScript e uso do Dom.
+Fiz com auxílio de um tutorial para fins educativos e treino/aprendizado de JavaScript e uso do Dom.\
+O usuário precisa dizer 'Buscar por' e completar com o que deseja.\
+Também pode-se alterar a cor de fundo para claro ou escuro, basta apertar o botão e dizer 'Clarear' / 'Escurecer'.
 
 
 <h2> Linguagens utilizadas: </h2>
